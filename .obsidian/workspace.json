@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "670c0693eba69721",
+    "type": "split",
+    "children": [
+      {
+        "id": "1601325360b425d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2b3432ad29d1fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resúmen Obsidian/19-Conserva de Tomate y Durazno.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "19-Conserva de Tomate y Durazno"
+            }
+          },
+          {
+            "id": "41c80161f51aa552",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Resúmen Obsidian/23 - Industria del Mosto/TPG2024_11_Industria del Mosto_ i_v01_18-10-24.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TPG2024_11_Industria del Mosto_ i_v01_18-10-24"
+            }
+          },
+          {
+            "id": "950770a6b547931d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumen_Obsidian/8-Industria del Vidrio/🪟 Industria del Vidrio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪟 Industria del Vidrio"
+            }
+          },
+          {
+            "id": "d4c324c20b20dcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4e50cfc0e9bc578",
+    "type": "split",
+    "children": [
+      {
+        "id": "3677a12f1901124c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c7a1cccc528d65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "776c3879a9fc14fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55788a5e3dc7b92a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "8802bb7d076fdf97",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d194922cfe3e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171ce0cb2d5a52d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cbe6faacfc904e8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d8c1fb5e588e6866",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd929cad3f5d5a30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "d4c324c20b20dcf5",
+  "lastOpenFiles": [
+    "Nuevo Documento de texto.txt",
+    "Untitled.canvas",
+    "README.md",
+    "Pasted Image 20250519134906_026.png",
+    "Pasted image 20250519112800.png",
+    "Directorio.md",
+    "Untitled.md",
+    "Resumen_Obsidian/8-Industria del Vidrio/🪟 Industria del Vidrio.md",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuenta Noroeste.pdf",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuencas Argentina.pdf",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuenca Neuquina.pdf",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuenca Golfo de San Jorge.pdf",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/areas_de_extraccion_AA052.zip",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuenca Austral.pdf",
+    "Resumen Obsidian/3- petroleo y gas/🗺️Mapas/Cuenca Cuyana.pdf",
+    "Resumen Obsidian/9- Industria Siderurgica/🔩Industria Siderúrgica.md",
+    "Resumen Obsidian/9- Industria Siderurgica/📄9-Industria Siderúrgica.pdf",
+    "Resumen Obsidian/9- Industria Siderurgica/⚙️Flowchart - Hierro.md",
+    "Resumen Obsidian/5- Energía Eléctrica/🖥️ 5-Energía Eléctrica (presentación).pdf",
+    "Resumen Obsidian/5- Energía Eléctrica/generacin-elctrica-centrales-de-generacin.xlsx",
+    "Resumen Obsidian/5- Energía Eléctrica/⚡Energía Eléctrica.md",
+    "Resumen Obsidian/8-Industria del Vidrio/🪟 Industria del Vidrio.md",
+    "Resumen Obsidian/7 - Industria Olivícola/🫒 Industria Olivícola.md",
+    "Resumen Obsidian/7 - Industria Olivícola/⚙️Flowchart - Aceite de Oliva.md",
+    "Resumen Obsidian/6- Industria Nuclear/☢️ Industria Nuclear.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🧀Flowchart - Queso.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🥖 Flowchart - Trigo.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🍭 Flowchart  - Azucar Blanca.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🥣Flowchart - Yogurt.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🥛Flowchart - Leche en polvo.md",
+    "Resumen Obsidian/4-Industria Alimenticia/🍕 Industria Alimenticia.md",
+    "Resumen Obsidian/29 - Industria Cementicia/🪦Industria Cementera.md",
+    "Resumen Obsidian/29 - Industria Cementicia/⚙️ Flowchart - Cemento.md",
+    "Resumen Obsidian/3- petroleo y gas/⛽Petróleo y gas.md",
+    "Resumen Obsidian/3- petroleo y gas/⚙️Flowchart - Refinería.md",
+    "Resumen Obsidian/23 - Industria del Mosto/🧃 Industria del Mosto Concentrado.md",
+    "Resumen Obsidian/23 - Industria del Mosto/⚙️ Flowchart - Mosto Concentrado.md",
+    "Resumen Obsidian/20 - Industria Vitivinicola/🍷 Industria Vitivinícola.md",
+    "Resumen Obsidian/20 - Industria Vitivinicola/⚙️ Flowchart - Industria vitivinícola.md",
+    "Anexos/Pasted Image 20250225120309_528.png",
+    "EDT.canvas",
+    "Anexos/Pasted image 20250509202923.png",
+    "Anexos/Pasted image 20250509202754.png",
+    "Anexos/Pasted image 20250509201938.png",
+    "Anexos/Pasted image 20250509195625.png",
+    "Anexos/Pasted image 20250509130851.png",
+    "Anexos/Pasted image 20250509123112.png",
+    "Anexos/Pasted image 20250509123104.png"
+  ]
+}
